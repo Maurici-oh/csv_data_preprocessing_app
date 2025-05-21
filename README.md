@@ -8,7 +8,7 @@ This Streamlit app is designed to perform comprehensive data preprocessing for m
 ## 📊 Project Overview
 **Goal**: Make dataset preprocessing more visual and user-friendly for both beginners and data professionals.
 
-The application is divided in 6 sections:
+The application is divided in 10 sections (tabs):
 
 **1. Data Exploration**
 * Dataset Display: take a first glimpse of the uploaded dataset
