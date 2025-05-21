@@ -70,8 +70,8 @@ The application is divided in 6 sections:
 * Principal Component Analysis (PCA)
 
 **To be developed**
-* 7. Feature Engineering
-* 8. Binarization
+* **7.** Feature Engineering
+* **8.** Binarization
 
 **9. Data Export**
 * Download the final preprocessed dataset
