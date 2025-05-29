@@ -836,6 +836,7 @@ def main():
                                             "t",
                                             "y",
                                             "Yes",
+                                            "Approved",
                                         }
                                         false_values = {
                                             "false",
@@ -844,6 +845,7 @@ def main():
                                             "f",
                                             "n",
                                             "No",
+                                            "Rejected",
                                         }
 
                                         result_train_series = pd.Series(
@@ -1281,6 +1283,7 @@ def main():
                                             "t",
                                             "y",
                                             "Yes",
+                                            "Approved",
                                         }
                                         false_values = {
                                             "false",
@@ -1289,6 +1292,7 @@ def main():
                                             "f",
                                             "n",
                                             "No",
+                                            "Rejected",
                                         }
 
                                         result_series = pd.Series(
